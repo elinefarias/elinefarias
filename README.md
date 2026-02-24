@@ -62,10 +62,6 @@
 
 <br>
 
-## 📊 Estatísticas e Línguas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elinefarias&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=elinefarias&layout=compact&langs_count=7&theme=vue)
 
 
 <!-- Adicione emojis e personalizações conforme desejar! 🌟🚀🔥 -->
