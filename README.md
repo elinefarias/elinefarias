@@ -4,7 +4,7 @@
   <img align="center" alt="eline-octacat" height="120em" width="150em" src="img/octacat.gif">
   
   <h2>🚀 Engenheira de dados e Desenvolvedora Web em Evolução 📈</h2>
-  <h4>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre Dados e Desenvolvimento Web. Emergida nesse mundo Tech e em vias de concluir minha formação em engenharia de computação, estou embarcando em uma jornada emocionante como Engenheira de dados e Desenvolvedora Web. Minha busca por soluções criativas é impulsionada pela minha curiosidade e perseverança.</h4>
+  <h4>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre Dados e Desenvolvimento Web. Engenheira de Computação com experiência em desenvolvimento backend e engenharia de dados. Trabalho com Python na construção de APIs, pipelines ETL, Agentes de IA baseados em LLMs e  Sistemas orientados a dados. Tenho perfil técnico analítico e foco em transformar dados e modelos em soluções robustas para o negócio.</h4>
 </div>
 
 <br>
