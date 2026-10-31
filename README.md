@@ -52,9 +52,3 @@
 
 ---
 
-### 📊 Meu GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elinefarias&show_icons=true&hide_border=true&theme=transparent&title_color=8957e5&icon_color=8957e5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinefarias&layout=compact&hide_border=true&theme=transparent&title_color=8957e5" />
-</div>
